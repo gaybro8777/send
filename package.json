@@ -129,7 +129,7 @@
     "mkdirp": "^0.5.1",
     "mozlog": "^2.2.0",
     "raven": "^2.4.2",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   },
   "availableLanguages": [
     "en-US",
